@@ -9,17 +9,17 @@ const Footer = () => {
 
       <div className="flex gap-3">
         <div className="social-icon">
-          <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
+          <img src="/assets/github.svg" alt="github" href="https://github.com/Curiuskrish" className="w-1/2 h-1/2" />
         </div>
         <div className="social-icon">
-          <img src="/assets/twitter.svg" alt="twitter" className="w-1/2 h-1/2" />
+          <img src="/assets/twitter.svg" alt="twitter"  className="w-1/2 h-1/2" />
         </div>
         <div className="social-icon">
           <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
         </div>
       </div>
 
-      <p className="text-white-500">© 2024 All rights reserved.</p>
+      <p className="text-white-500">© 2025 All rights reserved.</p>
     </footer>
   );
 };
